@@ -3,6 +3,10 @@
 int main()
 {
 
-printf("Hello World!\n");
+printf("Fare thee well\n");
+
+printf("Heloo World!\n");
+
+printf("Quicker version!\n");
 return 0;
 }
